@@ -7,7 +7,6 @@ from math import floor
 from pathlib import Path
 from typing import Dict, Union, List, Tuple, Set, Collection, ContextManager, Optional
 
-import poetry_version
 import spacy
 import spacy.attrs
 import spacy.language
@@ -80,7 +79,6 @@ AVAILABLE_ANALYSES: AnalysesTypes = frozenset(_available_analyses_list)
 
 
 APP_NAME = 'profanity-filter'
-__version__ = poetry_version.extract(source_file=__file__)
 
 
 class ProfanityFilter:
@@ -212,7 +210,7 @@ class ProfanityFilter:
         """Returns True if input_text contains any profane words, False otherwise"""
         return self._censor(text=text, return_bool=True)
 
-    @cached_property
+    # @cached_property
     def spacy_component(self, language: Language = None) -> SpacyProfanityFilterComponent:
         nlp = self._get_nlp(language)
         [language] = [language for language, nlp_ in self.nlps.items() if nlp_ == nlp]
@@ -343,8 +341,9 @@ class ProfanityFilter:
             self._nlps = {}
             for language in self.languages:
                 with suppress(OSError):
-                    self._nlps[language] = spacy.load(language, disable=['parser', 'ner'])
-                    self._nlps[language].add_pipe(self.spacy_component, last=True)
+                    self._nlps[language] = spacy.load('en_core_web_sm', disable=['parser', 'ner'])
+                    # x = self.spacy_component(language=language)
+                    # self._nlps[language].add_pipe(x, name=f'spacy_component', last=True)
             if not self._nlps:
                 raise ProfanityFilterError(f"Couldn't load Spacy model for any of languages: {self.languages_str}")
 
@@ -793,6 +792,9 @@ class ProfanityFilter:
         for language, text_part in text_parts:
             result_part = text_part
             doc = self._parse(language=language, text=text_part)
+            component = self.spacy_component(language=language)
+            # calling the __call__ method for the component object to add extensions
+            component(doc=doc, language=language)
             for token in doc:
                 if token._.is_profane:
                     if return_bool:

@@ -373,3 +373,634 @@ whoar
 whore
 xrated
 xxx
+Binance
+Coinbase Exchange
+Bybit
+OKX
+Upbit
+Kraken
+Gate.io
+KuCoin
+HTX
+Bitfinex
+MEXC
+Bitget
+Bitstamp
+Crypto.com Exchange
+Binance TR
+Gemini
+Binance.US
+Tokocrypto
+BingX
+bitFlyer
+LBank
+Bithumb
+XT.COM
+Deepcoin
+ProBit Global
+OrangeX
+DigiFinex
+Hotcoin Global
+WhiteBIT
+LATOKEN
+CoinW
+BitMart
+BitVenus
+Toobit
+Bitrue
+CoinTR Pro
+CITEX
+Coinstore
+Zaif
+Fastex
+P2B
+Bitvavo
+Pionex
+Phemex
+Coinone
+Coincheck
+Biconomy Exchange
+Hotscoin
+Azbit
+BitMEX
+BigONE
+C-Patex
+Bitbank
+Bitkub
+Bitso
+FameEX
+Currency.com
+Dex-Trade
+Luno
+WOO X
+Websea
+CommEX
+BtcTurk | Kripto
+PointPay
+Indodax
+Korbit
+HashKey Exchange
+MAX Exchange
+Bitspay
+OKCoin Japan
+FMFW.io
+ICRYPEX
+CoinEx
+Coinsbit
+Poloniex
+Bit2Me Pro
+Fairdesk
+Coinlist Pro
+AscendEX (BitMax)
+Cryptology
+BitoPro
+Independent Reserve
+CEX.IO
+BTC Markets
+Paribu
+Bilaxy
+Coinmetro
+BitDelta
+AlphaX
+Bullish
+BITEXLIVE
+Bitunix
+IndoEx
+Tapbit
+BTSE
+Mercado Bitcoin
+HitBTC
+Salavi Exchange
+BTCBOX
+Emirex
+KoinBX
+EXMO
+BitTrade
+Coinmate
+GOPAX
+Foxbit
+Qmall Exchange
+ACE
+CoinZoom
+Tidex
+Buda
+FMCPAY
+CoinJar
+Bitexen
+LMAX Digital
+Kuna
+Bitcastle
+M2
+TimeX
+Reku
+WazirX
+VinDAX
+SWFT Trade
+BitStorage
+VALR
+DeGate
+SecondBTC
+Cat.Ex
+BIT
+Okcoin
+Coins.ph
+Paymium
+Delta Exchange
+NiceHash
+TruBit Pro Exchange
+CoinDCX
+Quidax
+ZebPay
+Orbix
+ONUS Pro
+BITFLEX
+Nominex
+Changelly PRO
+NovaDAX
+EXMO.ME
+Altcoin Trader
+digitalexchange.id
+SafeTrade
+zondacrypto
+TradeOgre
+Lykke Exchange
+Coinhub
+BankCEX
+CoinCorner
+Coinut
+XeggeX
+BTC-Alpha
+UEEx
+BYDFi
+Narkasa
+WEEX
+Globe Derivative Exchange
+Dcoin
+CoinCatch
+UZX
+SuperEx
+Blockchain.com
+LocalTrade
+BiKing
+BitHash
+Remitano
+Bitcoin.me
+Bibox
+BCEX Korea
+4e
+Blocktrade
+Cryptonex
+Bitay
+Coinbase International Exchange
+Tokenize Xchange
+LCX Exchange
+50x
+Unocoin
+PayBito
+Bitcoiva
+Jubi
+Polyx
+Topcredit Int
+Bitci TR
+Tokpie
+Giottus
+Bitazza
+DIFX
+Avascriptions
+BIT.TEAM
+NexDAX
+Koinpark
+Mercatox
+Felixo
+Bitonic
+YoBit
+Finexbox
+Chiliz
+OceanEx
+Tidebit
+Bitlo
+Bittylicious
+StormGain
+Millionero
+StakeCube
+Flipster
+BTC Trade UA
+GDAC
+FOBLGATE
+Fatbtc
+ProBit
+ExMarkets
+Namebase
+Hanbitco
+Graviex
+BlueBit
+ChangeNOW
+GroveX
+FreiExchange
+ABCC
+Zedcex Exchange
+Koinim
+RuDEX
+Flybit
+APROBIT
+Zipmex
+PowerTrade
+BitMake
+dYdX v4
+APX v2 (BSC)
+Uniswap v3 (Ethereum)
+Orca
+dYdX
+Jupiter
+Uniswap v3 (Arbitrum)
+Vertex Protocol
+PancakeSwap v3 (BSC)
+Curve (Ethereum)
+Uniswap v2
+THORChain
+Apex Protocol
+Uniswap v3 (Polygon)
+PancakeSwap v2 (BSC)
+Equation
+Helix
+QuickSwap v3 (Polygon)
+Raydium
+Trader Joe v2.1 (Avalanche)
+Camelot v3
+GMX (Arbitrum)
+Uniswap v3 (Optimism)
+Osmosis
+Trader Joe v2.1 (Arbitrum)
+PulseX
+THENA FUSION
+Ramses v2
+Cetus
+Uniswap v3 (BSC)
+Perpetual Protocol
+APX
+PancakeSwap v3 (Ethereum)
+DODO (Ethereum)
+Uniswap v3 (Base)
+Balancer v2 (Ethereum)
+SyncSwap (zkSync Era)
+Curve (Arbitrum)
+Trader Joe (Avalanche)
+zkSwap Finance
+Sunswap v2
+OpenOcean
+Balancer v2 (Arbitrum)
+WOOFi
+Agni Finance (Mantle)
+Katana
+SushiSwap (Ethereum)
+DYORSWAP
+Solidly (Ethereum)
+Slingshot Finance
+Dexalot
+DODO (BSC)
+Saber DEX
+PancakeSwap v3 (zkSync Era)
+Mute
+PulseX v2
+Velodrome Finance v2
+GMX (Avalanche)
+Pangolin
+Phux (PulseChain)
+Retro
+Curve (Optimism)
+Thruster
+Minswap
+FusionX v3
+PancakeSwap v3 (Arbitrum)
+VVS Finance
+DODO (Arbitrum)
+Uniswap v3 (Celo)
+Aperture (Manta)
+Pancakeswap v3 (Base)
+QuickSwap
+Balancer v2 (Gnosis Chain)
+APX v2 (Arbitrum)
+Syncswap (Scroll)
+Dojoswap
+StellarTerm
+SaucerSwap v1
+xExchange
+SushiSwap (Arbitrum)
+Balancer v2 (Polygon)
+Fraxswap v2 (Ethereum)
+Lifinity
+DODO (Polygon)
+Nomiswap (Stable)
+Beethoven X (Optimism)
+Biswap v2
+Maverick Protocol
+ShibaSwap
+SyncSwap (Linea)
+Astroport (Cosmos)
+Quickswap v3 (Manta)
+Wombat Exchange (BSC)
+StellaSwap v3
+Camelot
+BaseSwap
+Liquidswap
+Tealswap
+Merchant Moe
+OKX Ordinals
+iZiSwap (Scroll)
+Hermes Protocol
+PancakeSwap v2 (Aptos)
+Wombat Exchange (Arbitrum)
+Liquidswap v0.5
+DeFiChain DEX
+SpookySwap
+Sovryn
+Kujira Fin
+Solarbeam
+Klayswap v3
+ArthSwap (Astar)
+KLAYswap
+SpaceFi (zkSync)
+Netswap
+SushiSwap (Polygon)
+Sushiswap v3 (Arbitrum)
+Orderly Network
+Zyberswap v3
+QuickSwap v3 (Polygon zkEVM)
+Astroport (Sei)
+Swappi
+Baby Doge Swap
+Tinyman
+Ref Finance
+Clipper (Ethereum)
+Trader Joe v2.1 (BSC)
+Sushiswap v3 (Polygon)
+THENA
+Tokenlon
+SynFutures v2
+DeFi Kingdoms (Crystalvale)
+DackieSwap
+STON.fi
+ApeSwap (BSC)
+MDEX (BSC)
+Loopring Exchange
+Balancer
+SushiSwap v3 (Base)
+SmarDex
+HiveSwap V3
+WingRiders DEX
+VyFinance
+Curve (Polygon)
+Trader Joe v2 (Avalanche)
+PancakeSwap
+Bancor Network
+mimo.exchange
+Equalizer
+WigoSwap
+YokaiSwap
+Trisolaris
+DeDust
+MM Finance (Cronos)
+Beethoven X (Fantom)
+Honeyswap
+BabySwap
+Ubeswap
+Sushiswap v3 (Ethereum)
+SundaeSwap
+OKC Swap
+ZigZag (zkSync Lite)
+Curve (Avalanche)
+Skydrome (Scroll)
+Jetswap (BSC)
+Astroport (Injective)
+BakerySwap
+Dfyn Network
+MDEX
+Curve (Gnosis)
+Velodrome
+PancakeSwap v3 (Polygon zkEVM)
+DFX Finance (Polygon)
+SaitaSwap
+Wanswap
+ThetaSwap
+Fraxswap v2 (Avalanche)
+Tethys
+Ramses
+MoraSwap
+Curve (celo)
+Nomiswap
+Fstswap
+Polkaswap
+DeFi Swap
+QuickSwap v3 (DogeChain)
+UniSat
+ApeSwap (Polygon)
+Splash
+Sideswap
+Orion (BSC)
+PayCash Swap
+Rai Finance
+Nash
+Wagyuswap
+Ezkalibur
+YuzuSwap
+SuiSwap
+E3
+abbo
+abo
+abortion
+abuse
+addict
+addicts
+adult
+africa
+african
+alla
+allah
+alligatorbait
+amateur
+american
+anal
+analannie
+analsex
+angie
+angry
+anus
+arab
+arabs
+areola
+argie
+aroused
+arse
+arsehole
+asian
+ass
+assassin
+assassinate
+assassination
+assault
+assbagger
+assblaster
+assclown
+asscowboy
+asses
+assfuck
+assfucker
+asshat
+asshole
+assholes
+asshore
+assjockey
+asskiss
+asskisser
+assklown
+asslick
+asslicker
+asslover
+assman
+assmonkey
+assmunch
+assmuncher
+asspacker
+asspirate
+asspuppies
+assranger
+asswhore
+asswipe
+athletesfoot
+attack
+australian
+babe
+babies
+backdoor
+backdoorman
+backseat
+badfuck
+balllicker
+balls
+ballsack
+banging
+baptist
+barelylegal
+barf
+barface
+barfface
+bast
+bastard
+bazongas
+bazooms
+beaner
+beast
+beastality
+beastial
+beastiality
+beatoff
+beat-off
+beatyourmeat
+beaver
+bestial
+bestiality
+bi
+biatch
+bible
+bicurious
+bigass
+bigbastard
+bigbutt
+bigger
+bisexual
+bi-sexual
+bitch
+bitcher
+bitches
+bitchez
+bitchin
+bitching
+bitchslap
+bitchy
+biteme
+black
+blackman
+blackout
+blacks
+blind
+blow
+blowjob
+boang
+bogan
+bohunk
+bollick
+bollock
+bomb
+bombers
+bombing
+bombs
+bomd
+bondage
+boner
+bong
+boob
+boobies
+boobs
+booby
+boody
+boom
+boong
+boonga
+boonie
+booty
+bootycall
+bountybar
+bra
+brea5t
+breast
+breastjob
+breastlover
+breastman
+brothel
+bugger
+buggered
+buggery
+bullcrap
+bulldike
+bulldyke
+bullshit
+bumblefuck
+bumfuck
+bunga
+bunghole
+buried
+burn
+butchbabes
+butchdike
+butchdyke
+butt
+buttbang
+butt-bang
+buttface
+buttfuck
+butt-fuck
+buttfucker
+butt-fucker
+buttfuckers
+butt-fuckers
+butthead
+buttman
+buttmunch
+buttmuncher
+buttpirate
+buttplug
+buttstain
+byatch
+cacker
+cameljockey
+cameltoe
+canadian
+cancer
+carpetmuncher
+carruth
+catholic
+catholics
+cemetery
+chav
+cherrypopper
+chickslick
